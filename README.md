@@ -43,8 +43,9 @@ This analysis employed a range of tools and techniques:
 
 **Visualization:** Matplotlib, Seaborn, and Altair were utilized to create informative visualizations, including network graphs, sentiment distribution charts, and word clouds.
 
-**Team**
+This repository aims to document and examine the role of digital activism in shaping the discourse surrounding Ethiopia’s crisis.
 
+**Team**
 This analysis was a collaborative effort by the CfA iLAB team, led by Data Analysts Hanna Teshager and Anita Igbine, with valuable guidance from Investigative Manager Allan Cheboi.
 
-This repository aims to document and examine the role of digital activism in shaping the discourse surrounding Ethiopia’s crisis.
+
